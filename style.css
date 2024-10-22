@@ -4,15 +4,17 @@
 }
 
 button#apple {
-  background-color: #ba1a62;
+  background-color: #e61f1f;
 }
 button#banana {
-  background-color: #c8cd7d;
+  background-color: #f3f3ed;
 }
 button#mango {
   background-color: #e4633b;
 }
-
+button#peach {
+  background-color: #fac6d3;
+}
 #shopping-cart {
   background-color: #e1ebe4;
   max-width: 600px;
